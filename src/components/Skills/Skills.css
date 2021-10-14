@@ -1,4 +1,5 @@
 .skills__list {
+  list-style-type: none;
   max-width: 450px;
   width: 95%;
   margin: 0 auto;
