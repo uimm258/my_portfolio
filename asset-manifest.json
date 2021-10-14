@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Arela_portfolio/static/css/main.ba11e34e.chunk.css",
+    "main.js": "/Arela_portfolio/static/js/main.699f5dc9.chunk.js",
+    "main.js.map": "/Arela_portfolio/static/js/main.699f5dc9.chunk.js.map",
+    "runtime-main.js": "/Arela_portfolio/static/js/runtime-main.ea3b12de.js",
+    "runtime-main.js.map": "/Arela_portfolio/static/js/runtime-main.ea3b12de.js.map",
+    "static/js/2.5810e675.chunk.js": "/Arela_portfolio/static/js/2.5810e675.chunk.js",
+    "static/js/2.5810e675.chunk.js.map": "/Arela_portfolio/static/js/2.5810e675.chunk.js.map",
+    "index.html": "/Arela_portfolio/index.html",
+    "static/css/main.ba11e34e.chunk.css.map": "/Arela_portfolio/static/css/main.ba11e34e.chunk.css.map",
+    "static/js/2.5810e675.chunk.js.LICENSE.txt": "/Arela_portfolio/static/js/2.5810e675.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea3b12de.js",
+    "static/js/2.5810e675.chunk.js",
+    "static/css/main.ba11e34e.chunk.css",
+    "static/js/main.699f5dc9.chunk.js"
+  ]
+}
